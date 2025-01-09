@@ -15,22 +15,22 @@ namespace Hourglass.Timing
     using Hourglass.Serialization;
 
     /// <summary>
-    /// The type of theme.
+    /// 主题种类
     /// </summary>
     public enum ThemeType
     {
         /// <summary>
-        /// A built-in theme with a light background.
+        /// 内置亮色背景默认主题
         /// </summary>
         BuiltInLight,
 
         /// <summary>
-        /// A built-in theme with a dark background.
+        /// 内置暗色背景主题
         /// </summary>
         BuiltInDark,
 
         /// <summary>
-        /// A theme that is provided by the user.
+        /// 用户自定义主题
         /// </summary>
         UserProvided
     }

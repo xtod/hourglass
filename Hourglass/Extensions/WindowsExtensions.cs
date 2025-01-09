@@ -15,7 +15,7 @@ namespace Hourglass.Extensions
     public static class WindowsExtensions
     {
         /// <summary>
-        /// Shuts down the computer.
+        /// 关闭电脑
         /// </summary>
         /// <returns><c>true</c> if the computer was shut down successfully, or <c>false</c> otherwise.</returns>
         public static bool ShutDown()
