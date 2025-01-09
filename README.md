@@ -1,5 +1,7 @@
 # Hourglass
 
-The simple countdown timer for Windows.
+一款极简并功能强大的倒计时软件
 
-Visit [chris.dziemborowicz.com](http://chris.dziemborowicz.com/apps/hourglass/) to learn more.
+中文主页 [Hourglass](https://unixetc.com/post/Hourglass_zh_cn)
+
+英文主页 [chris.dziemborowicz.com](http://chris.dziemborowicz.com/apps/hourglass/) 
